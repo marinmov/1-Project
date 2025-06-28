@@ -1,4 +1,7 @@
+## BASIC-INTERMEDIATE CALCULATOR (BY Arslan)
+
 This is an example of a basic calculator, which contains the following tools and/or functions:
+
 1. Addition
 2. Subtraction
 3. Multiplication
